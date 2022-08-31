@@ -1,0 +1,22 @@
+img {
+  width: 100px;
+  height: 100px;
+}
+tr{
+  border: 1px;
+}
+td{
+  width: 150px;
+  height: 100px;
+}
+table{
+  width: 100%;
+  text-align: center;
+  background-color: aqua;
+}
+.search{
+  background-color: antiquewhite;
+  text-align: center;
+  height: 100px;
+}
+
